@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá. Eu sou o Gabriel, e se for pra me meter em problema, que seja pra resolver! 👋😁
 
-<!--
-**GabrielChaves20/GabrielChaves20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou me especializando em análise de dados com Python e SQL
+- ✍🏻 Aprendendo Power BI e SalesForce
+- 🔎 Estou a procura da primeira vaga em dados! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/GabrielChaves20/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielChaves20&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/GabrielChaves20/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielChaves20&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+</a>
