@@ -5,8 +5,8 @@
 - 🔎 Estou a procura da primeira vaga em dados! 
 
 <a href="https://github.com/GabrielChaves20/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielChaves20&show_icons=true&theme=gruvbox" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielChaves20&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/GabrielChaves20/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielChaves20&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielChaves20&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
 </a>
